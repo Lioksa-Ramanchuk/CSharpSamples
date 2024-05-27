@@ -1,0 +1,6 @@
+Имя сборки: System.Private.CoreLib
+Публичные конструкторы: есть
+Публичные методы: GetType, ToString, Equals, Equals, ReferenceEquals, GetHashCode
+Поля и свойства: 
+Интерфейсы: 
+Методы, тип хотя бы одного из параметров которых - System.Object: Equals, Equals, ReferenceEquals

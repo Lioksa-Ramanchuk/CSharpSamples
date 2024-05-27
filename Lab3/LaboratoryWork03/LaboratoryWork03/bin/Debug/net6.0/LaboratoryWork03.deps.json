@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaboratoryWork03/1.0.0": {
+        "dependencies": {
+          "LW03_List": "1.0.0.0"
+        },
+        "runtime": {
+          "LaboratoryWork03.dll": {}
+        }
+      },
+      "LW03_List/1.0.0.0": {
+        "runtime": {
+          "LW03_List.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LW07_IInteractive/1.0.0.0": {
+        "runtime": {
+          "LW07_IInteractive.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW03_List/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW07_IInteractive/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

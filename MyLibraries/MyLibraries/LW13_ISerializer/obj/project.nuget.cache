@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJykPfednbOnTwaEV+85hDu10uSZSwjEO/twleAFk9Qj+gBK906n6L6SlcJotATO7hBlW6/erLwnegq60Zbwrg==",
+  "success": true,
+  "projectFilePath": "D:\\БДТУ\\3 семестр\\ААПіСП\\Лабы\\MyLibraries\\MyLibraries\\LW13_ISerializer\\LW13_ISerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LW03_List">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW03_List\bin\Debug\net6.0\LW03_List.dll</HintPath>
+    </Reference>
+    <Reference Include="LW04_Documents">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.dll</HintPath>
+    </Reference>
+    <Reference Include="LW07_IInteractive">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW07_IInteractive\bin\Debug\net6.0\LW07_IInteractive.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

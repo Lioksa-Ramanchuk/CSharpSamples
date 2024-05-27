@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\bin\Debug\net6.0\LW12_FileHandling.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\bin\Debug\net6.0\LW12_FileHandling.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\bin\Debug\net6.0\LW12_FileHandling.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\refint\LW12_FileHandling.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\LW12_FileHandling.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW12_FileHandling\obj\Debug\net6.0\ref\LW12_FileHandling.dll

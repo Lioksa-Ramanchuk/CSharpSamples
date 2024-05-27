@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaboratoryWork12/1.0.0": {
+        "dependencies": {
+          "LW12_FileHandling": "1.0.0.0"
+        },
+        "runtime": {
+          "LaboratoryWork12.dll": {}
+        }
+      },
+      "LW12_FileHandling/1.0.0.0": {
+        "runtime": {
+          "LW12_FileHandling.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW12_FileHandling/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

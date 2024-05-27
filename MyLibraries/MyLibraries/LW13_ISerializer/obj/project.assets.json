@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SoapFormatter/1.1.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SoapFormatter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoapFormatter/1.1.9": {
+      "sha512": "9okRnHpuoOKlTlxid6sddSjZ0OVGbK4EjSf3VvxOLnQfTkV3iGZzSQa2ZYYuD+apairVrPqwZ3lPvcFqR8b7Kw==",
+      "type": "package",
+      "path": "soapformatter/1.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SoapFormatter.dll",
+        "soapformatter.1.1.9.nupkg.sha512",
+        "soapformatter.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SoapFormatter >= 1.1.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\БДТУ\\3 семестр\\ААПіСП\\Лабы\\MyLibraries\\MyLibraries\\LW13_ISerializer\\LW13_ISerializer.csproj",
+      "projectName": "LW13_ISerializer",
+      "projectPath": "D:\\БДТУ\\3 семестр\\ААПіСП\\Лабы\\MyLibraries\\MyLibraries\\LW13_ISerializer\\LW13_ISerializer.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\БДТУ\\3 семестр\\ААПіСП\\Лабы\\MyLibraries\\MyLibraries\\LW13_ISerializer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SoapFormatter": {
+            "target": "Package",
+            "version": "[1.1.9, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

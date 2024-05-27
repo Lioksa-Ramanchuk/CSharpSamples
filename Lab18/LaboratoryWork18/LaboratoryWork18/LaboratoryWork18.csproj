@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LW17_Airline">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW17_Airline\bin\Debug\net7.0\LW17_Airline.dll</HintPath>
+    </Reference>
+    <Reference Include="LW18_AirlineAdd">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW18_AirlineAdd.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+Имя сборки: LW04_Documents
+Публичные конструкторы: есть
+Публичные методы: get_Name, set_Name, get_Address, set_Address, get_Description, set_Description, ToString, GetType, Equals, GetHashCode
+Поля и свойства: Name, Address, Description, <Name>k__BackingField, <Address>k__BackingField, <Description>k__BackingField
+Интерфейсы: 
+Методы, тип хотя бы одного из параметров которых - System.String: set_Name, set_Address, set_Description

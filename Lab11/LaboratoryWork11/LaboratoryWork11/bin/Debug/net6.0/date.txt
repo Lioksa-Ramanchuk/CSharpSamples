@@ -1,0 +1,6 @@
+Имя сборки: LW04_Documents
+Публичные конструкторы: есть
+Публичные методы: get_Day, get_Month, get_Year, op_Equality, op_Inequality, op_GreaterThan, op_LessThan, op_GreaterThanOrEqual, op_LessThanOrEqual, IsLeapYear, Set, Set, Equals, GetHashCode, ToString, GetType
+Поля и свойства: Day, Month, Year, _maxDaysNumberInMonths, <Day>k__BackingField, <Month>k__BackingField, <Year>k__BackingField
+Интерфейсы: IComparable`1
+Методы, тип хотя бы одного из параметров которых - System.UInt32: set_Year, IsLeapYear, Set

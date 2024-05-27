@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27n+J0x4YQIRwGjb7UIx2Vanz3l9MxpmdVj0qI7eGCjoxBFfjPgR+QozsogCx2Tx/EprIMh4nBZMiQgtYnXr8w==",
+  "success": true,
+  "projectFilePath": "D:\\БДТУ\\3 семестр\\ААПіСП\\Лабы\\MyLibraries\\MyLibraries\\LW05_AccountingDepartment\\LW05_AccountingDepartment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

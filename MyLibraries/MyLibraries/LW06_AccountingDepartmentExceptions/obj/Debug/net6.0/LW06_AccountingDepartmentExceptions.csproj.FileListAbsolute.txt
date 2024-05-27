@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\bin\Debug\net6.0\LW06_AccountingDepartmentExceptions.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\bin\Debug\net6.0\LW06_AccountingDepartmentExceptions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\bin\Debug\net6.0\LW06_AccountingDepartmentExceptions.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\refint\LW06_AccountingDepartmentExceptions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\LW06_AccountingDepartmentExceptions.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW06_AccountingDepartmentExceptions\obj\Debug\net6.0\ref\LW06_AccountingDepartmentExceptions.dll

@@ -1,0 +1,17 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW05_AccountingDepartment.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW05_AccountingDepartment.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW05_AccountingDepartment.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW04_Documents.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW04_Documents.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.csproj.CopyComplete
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\refint\LW05_AccountingDepartment.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\LW05_AccountingDepartment.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\obj\Debug\net6.0\ref\LW05_AccountingDepartment.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW06_AccountingDepartmentExceptions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW05_AccountingDepartment\bin\Debug\net6.0\LW06_AccountingDepartmentExceptions.pdb

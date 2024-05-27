@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LW04_Documents">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

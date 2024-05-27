@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LW18_AirlineAdd/1.0.0": {
+        "dependencies": {
+          "LW17_Airline": "1.0.0"
+        },
+        "runtime": {
+          "LW18_AirlineAdd.dll": {}
+        }
+      },
+      "LW17_Airline/1.0.0": {
+        "runtime": {
+          "LW17_Airline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LW18_AirlineAdd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW17_Airline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

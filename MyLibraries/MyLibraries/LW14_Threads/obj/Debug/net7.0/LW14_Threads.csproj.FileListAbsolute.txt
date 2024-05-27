@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\bin\Debug\net7.0\LW14_Threads.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\bin\Debug\net7.0\LW14_Threads.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\bin\Debug\net7.0\LW14_Threads.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\refint\LW14_Threads.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\LW14_Threads.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW14_Threads\obj\Debug\net7.0\ref\LW14_Threads.dll

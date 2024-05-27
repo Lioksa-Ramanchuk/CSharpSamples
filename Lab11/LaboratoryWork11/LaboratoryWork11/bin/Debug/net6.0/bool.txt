@@ -1,0 +1,6 @@
+Имя сборки: System.Private.CoreLib
+Публичные конструкторы: нет
+Публичные методы: GetHashCode, ToString, ToString, TryFormat, Equals, Equals, CompareTo, CompareTo, Parse, Parse, TryParse, TryParse, GetTypeCode, GetType
+Поля и свойства: m_value, TrueString, FalseString
+Интерфейсы: IComparable, IConvertible, IComparable`1, IEquatable`1
+Методы, тип хотя бы одного из параметров которых - System.Boolean: Equals, CompareTo

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LW06_AccountingDepartmentExceptions/1.0.0": {
+        "runtime": {
+          "LW06_AccountingDepartmentExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LW06_AccountingDepartmentExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

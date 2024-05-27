@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaboratoryWork04/1.0.0": {
+        "dependencies": {
+          "LW04_Documents": "1.0.0.0"
+        },
+        "runtime": {
+          "LaboratoryWork04.dll": {}
+        }
+      },
+      "LW04_Documents/1.0.0.0": {
+        "runtime": {
+          "LW04_Documents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW04_Documents/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

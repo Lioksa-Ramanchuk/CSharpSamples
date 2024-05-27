@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\bin\Debug\net6.0\LW11_Reflector.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\bin\Debug\net6.0\LW11_Reflector.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\bin\Debug\net6.0\LW11_Reflector.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\refint\LW11_Reflector.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\LW11_Reflector.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW11_Reflector\obj\Debug\net6.0\ref\LW11_Reflector.dll

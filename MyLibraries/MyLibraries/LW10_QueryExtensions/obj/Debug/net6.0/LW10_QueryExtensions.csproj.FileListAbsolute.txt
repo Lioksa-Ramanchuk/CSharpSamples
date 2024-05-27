@@ -1,0 +1,15 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\bin\Debug\net6.0\LW10_QueryExtensions.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\bin\Debug\net6.0\LW10_QueryExtensions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\bin\Debug\net6.0\LW10_QueryExtensions.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\bin\Debug\net6.0\LW02_Product.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\bin\Debug\net6.0\LW02_Product.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.csproj.CopyComplete
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\refint\LW10_QueryExtensions.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\LW10_QueryExtensions.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW10_QueryExtensions\obj\Debug\net6.0\ref\LW10_QueryExtensions.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaboratoryWork08/1.0.0": {
+        "dependencies": {
+          "LW08_Programmer": "1.0.0.0"
+        },
+        "runtime": {
+          "LaboratoryWork08.dll": {}
+        }
+      },
+      "LW08_Programmer/1.0.0.0": {
+        "runtime": {
+          "LW08_Programmer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW08_Programmer/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

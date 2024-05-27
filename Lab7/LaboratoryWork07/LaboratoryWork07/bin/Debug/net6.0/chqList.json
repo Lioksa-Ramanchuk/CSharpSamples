@@ -1,0 +1,65 @@
+{
+  "$type": "OOP.LW03_List.List`1[[OOP.LW04_Documents.Cheque, LW04_Documents]], LW03_List",
+  "_arr": [
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "_amount": 100.0,
+      "<Drawer>k__BackingField": "dr1",
+      "<Payee>k__BackingField": "p1",
+      "<Drawee>k__BackingField": "de1",
+      "<Date>k__BackingField": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 0
+      },
+      "<IsOriginal>k__BackingField": true,
+      "<IsSigned>k__BackingField": false,
+      "<Number>k__BackingField": 1
+    },
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "_amount": 200.0,
+      "<Drawer>k__BackingField": "dr2",
+      "<Payee>k__BackingField": "p2",
+      "<Drawee>k__BackingField": "de2",
+      "<Date>k__BackingField": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 0
+      },
+      "<IsOriginal>k__BackingField": true,
+      "<IsSigned>k__BackingField": false,
+      "<Number>k__BackingField": 2
+    },
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "_amount": 300.0,
+      "<Drawer>k__BackingField": "dr3",
+      "<Payee>k__BackingField": "p3",
+      "<Drawee>k__BackingField": "de3",
+      "<Date>k__BackingField": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 0
+      },
+      "<IsOriginal>k__BackingField": true,
+      "<IsSigned>k__BackingField": false,
+      "<Number>k__BackingField": 3
+    }
+  ],
+  "<Owner>k__BackingField": {
+    "$type": "OOP.LW03_List.OwnerInfo, LW03_List",
+    "_id": 3321442555,
+    "_name": null,
+    "_organization": null
+  },
+  "<CreationDate>k__BackingField": {
+    "$type": "OOP.LW03_List.Date, LW03_List",
+    "<Day>k__BackingField": 11,
+    "<Month>k__BackingField": 11,
+    "<Year>k__BackingField": 2022
+  }
+}

@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\bin\Debug\net6.0\LW09_Game.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\bin\Debug\net6.0\LW09_Game.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\bin\Debug\net6.0\LW09_Game.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\refint\LW09_Game.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\LW09_Game.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW09_Game\obj\Debug\net6.0\ref\LW09_Game.dll

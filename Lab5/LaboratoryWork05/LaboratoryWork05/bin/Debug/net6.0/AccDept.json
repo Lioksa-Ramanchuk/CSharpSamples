@@ -1,0 +1,130 @@
+{
+  "$type": "OOP.LW05_AccountingDepartment.AccountingDepartment, LW05_AccountingDepartment",
+  "Archive": [
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "Drawer": "Стефания Латыпова",
+      "Payee": "Павлина Погосская",
+      "Drawee": "Белаколбанк",
+      "Amount": 1000.0,
+      "Date": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 2022
+      },
+      "IsOriginal": false,
+      "IsSigned": true,
+      "Number": 9712262
+    },
+    {
+      "$type": "OOP.LW04_Documents.PackingList, LW04_Documents",
+      "Vendor": "IEKA",
+      "Customer": "GoodOrg Inc.",
+      "Products": [
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Раздвижной стол",
+          "Price": 800.50,
+          "Amount": 20,
+          "Cost": 16010.00
+        },
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Деревянный стул",
+          "Price": 158.50,
+          "Amount": 40,
+          "Cost": 6340.00
+        },
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Комод",
+          "Price": 250.10,
+          "Amount": 2,
+          "Cost": 500.20
+        }
+      ],
+      "Cost": 22850.20,
+      "Date": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 2022
+      },
+      "IsOriginal": true,
+      "IsSigned": true,
+      "Number": 7264571
+    },
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "Drawer": "Ян Оробейко",
+      "Payee": "Константин Будько",
+      "Drawee": "Банк М",
+      "Amount": 2300.0,
+      "Date": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 2022
+      },
+      "IsOriginal": true,
+      "IsSigned": true,
+      "Number": 651234
+    },
+    {
+      "$type": "OOP.LW04_Documents.PackingList, LW04_Documents",
+      "Vendor": "ООО \"Уютно.\"",
+      "Customer": "ООО \"Понятно\"",
+      "Products": [
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Деревянный стул",
+          "Price": 158.50,
+          "Amount": 15,
+          "Cost": 2377.50
+        },
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Микроволновая печь",
+          "Price": 1200.0,
+          "Amount": 1,
+          "Cost": 1200.0
+        },
+        {
+          "$type": "OOP.LW04_Documents.Product, LW04_Documents",
+          "Name": "Холодильник",
+          "Price": 1300.0,
+          "Amount": 2,
+          "Cost": 2600.0
+        }
+      ],
+      "Cost": 6177.50,
+      "Date": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 2022
+      },
+      "IsOriginal": true,
+      "IsSigned": true,
+      "Number": 1039004
+    },
+    {
+      "$type": "OOP.LW04_Documents.Cheque, LW04_Documents",
+      "Drawer": "Дмитрий Каленик",
+      "Payee": "Виктория Канецкая",
+      "Drawee": "Банк М",
+      "Amount": 23034.0,
+      "Date": {
+        "$type": "OOP.LW04_Documents.Date, LW04_Documents",
+        "Day": 1,
+        "Month": 1,
+        "Year": 2022
+      },
+      "IsOriginal": true,
+      "IsSigned": false,
+      "Number": 9867053
+    }
+  ],
+  "Logger": null
+}

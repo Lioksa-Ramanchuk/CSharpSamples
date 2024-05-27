@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\bin\Debug\net6.0\LW13_ISerializer.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\bin\Debug\net6.0\LW13_ISerializer.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\bin\Debug\net6.0\LW13_ISerializer.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\refint\LW13_ISerializer.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\LW13_ISerializer.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW13_ISerializer\obj\Debug\net6.0\ref\LW13_ISerializer.dll

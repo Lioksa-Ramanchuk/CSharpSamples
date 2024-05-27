@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LW10_QueryExtensions/1.0.0": {
+        "dependencies": {
+          "LW02_Product": "1.0.0"
+        },
+        "runtime": {
+          "LW10_QueryExtensions.dll": {}
+        }
+      },
+      "LW02_Product/1.0.0": {
+        "runtime": {
+          "LW02_Product.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LW10_QueryExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW02_Product/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

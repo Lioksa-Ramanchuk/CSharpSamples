@@ -1,0 +1,15 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\bin\Debug\net7.0\LaboratoryWork15.exe
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\bin\Debug\net7.0\LaboratoryWork15.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\bin\Debug\net7.0\LaboratoryWork15.runtimeconfig.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\bin\Debug\net7.0\LaboratoryWork15.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\bin\Debug\net7.0\LaboratoryWork15.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\refint\LaboratoryWork15.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\LaboratoryWork15.genruntimeconfig.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\Lab15\LaboratoryWork15\LaboratoryWork15\obj\Debug\net7.0\ref\LaboratoryWork15.dll

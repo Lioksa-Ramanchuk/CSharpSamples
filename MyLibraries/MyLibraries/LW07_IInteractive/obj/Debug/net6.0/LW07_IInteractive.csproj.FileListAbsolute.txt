@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\bin\Debug\net6.0\LW07_IInteractive.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\bin\Debug\net6.0\LW07_IInteractive.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\bin\Debug\net6.0\LW07_IInteractive.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\refint\LW07_IInteractive.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\LW07_IInteractive.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW07_IInteractive\obj\Debug\net6.0\ref\LW07_IInteractive.dll

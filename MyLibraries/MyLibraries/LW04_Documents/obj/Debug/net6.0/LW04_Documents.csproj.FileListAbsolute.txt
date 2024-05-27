@@ -1,0 +1,12 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\refint\LW04_Documents.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\LW04_Documents.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW04_Documents\obj\Debug\net6.0\ref\LW04_Documents.dll

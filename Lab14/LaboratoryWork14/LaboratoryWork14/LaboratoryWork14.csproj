@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LW04_Documents">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.dll</HintPath>
+    </Reference>
+    <Reference Include="LW14_Threads">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW14_Threads\bin\Debug\net7.0\LW14_Threads.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

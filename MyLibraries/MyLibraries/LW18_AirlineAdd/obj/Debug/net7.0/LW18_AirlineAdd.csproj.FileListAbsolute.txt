@@ -1,0 +1,15 @@
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW18_AirlineAdd.deps.json
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW18_AirlineAdd.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW18_AirlineAdd.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW17_Airline.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\bin\Debug\net7.0\LW17_Airline.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.csproj.AssemblyReference.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.AssemblyInfoInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.AssemblyInfo.cs
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.csproj.CoreCompileInputs.cache
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.csproj.CopyComplete
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\refint\LW18_AirlineAdd.dll
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\LW18_AirlineAdd.pdb
+D:\БДТУ\3 семестр\ААПіСП\Лабы\MyLibraries\MyLibraries\LW18_AirlineAdd\obj\Debug\net7.0\ref\LW18_AirlineAdd.dll

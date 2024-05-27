@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LW04_Documents">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW04_Documents\bin\Debug\net6.0\LW04_Documents.dll</HintPath>
+    </Reference>
+    <Reference Include="LW11_Reflector">
+      <HintPath>..\..\..\MyLibraries\MyLibraries\LW11_Reflector\bin\Debug\net6.0\LW11_Reflector.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

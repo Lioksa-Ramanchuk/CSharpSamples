@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LaboratoryWork14/1.0.0": {
+        "dependencies": {
+          "LW04_Documents": "1.0.0.0",
+          "LW14_Threads": "1.0.0.0"
+        },
+        "runtime": {
+          "LaboratoryWork14.dll": {}
+        }
+      },
+      "LW04_Documents/1.0.0.0": {
+        "runtime": {
+          "LW04_Documents.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LW14_Threads/1.0.0.0": {
+        "runtime": {
+          "LW14_Threads.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaboratoryWork14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW04_Documents/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LW14_Threads/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
